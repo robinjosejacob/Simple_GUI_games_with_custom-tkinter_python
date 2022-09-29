@@ -1,2 +1,3 @@
-# simple_bingo_game
+# simple_games
+
 Some Python-coded games to turn burnout into entertainment with your friends, team, or family...
