@@ -3,8 +3,6 @@ import customtkinter
 import os
 import Module_TicTacToe as g1
 import Module_Bingo as g2
-import Module_DotsAndBoxes as g3
-import Module_Ludo as g5
 
 PATH = os.path.dirname(os.path.realpath(__file__))
 
@@ -91,7 +89,7 @@ class App(customtkinter.CTk):
         self.game_2_frame = g2.Game_Bingo(self.frame_right, header_name="Bingo")
         self.game_3_frame = Game_template(self.frame_right, header_name="Dots And Boxes")
         self.game_4_frame = Game_template(self.frame_right, header_name="Sudoku")
-        self.game_5_frame = g5.LudoMain(self.frame_right, header_name="Ludo")
+        self.game_5_frame = Game_template(self.frame_right, header_name="Ludo")
 
     def button_function(self):
         print("button pressed")
