@@ -1,4 +1,4 @@
-## Simple_GUI_games_with_custom-tkinter_python
+# Simple_GUI_games_with_custom-tkinter_python
 
 Some GUI based Python-coded games with Custom Tkinter to turn burnout into entertainment with your friends, team, or family...
 
@@ -6,7 +6,7 @@ This repository contains some of the GUI based games developed with custom tkint
 
 Run the `MainGameDashboard.py` to start playing.....
 
-# Requiremets:
+###### Requiremets:
 
 python3
 customtkinter --- > `pip3 install customtkinter`
