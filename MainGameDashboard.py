@@ -27,7 +27,7 @@ class Game_template(customtkinter.CTkFrame):
 
 class App(customtkinter.CTk):
 
-    APP_NAME = "CustomTkinter example_background_image.py"
+    APP_NAME = "GUI game with custom tkinter python.py"
     WIDTH = 900
     HEIGHT = 600
 
