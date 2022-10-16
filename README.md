@@ -9,15 +9,16 @@ This repository contains some of the GUI based games developed with custom tkint
 Run the `MainGameDashboard.py` to start playing.....
 
 
-### Requiremets:
-***
+## Requiremets:
 
 python3
 customtkinter --- > `pip3 install customtkinter`
+
+---
 
 **Game 1** - Tic Tac Toe.
 
 **Game 2** - Bingo
 
-**Have Fun**
+### Have Fun ###
 
